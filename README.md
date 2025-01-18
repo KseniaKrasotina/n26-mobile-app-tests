@@ -79,4 +79,4 @@ To run the tests, please, do the following:
 
 ## Report Screenshot
 
-[![Test Report Screenshot](./assets/test_report_screenshot.png)](./build/reports/tests/test/index.html)
+[![Test Report Screenshot](./assets/mobile-report.png)]
