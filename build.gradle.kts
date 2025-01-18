@@ -1,6 +1,6 @@
 plugins {
     java
-    id("io.qameta.allure") version "2.11.2"
+    id("io.qameta.allure") version "2.11.1"
 }
 
 repositories {
